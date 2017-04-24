@@ -1,0 +1,19 @@
+{
+  "name": "assignment_build_a_nodejs_server",
+  "version": "1.0.0",
+  "description": "Node Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitkumr10/assignment_build_a_nodejs_server.git"
+  },
+  "author": "Ankit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitkumr10/assignment_build_a_nodejs_server/issues"
+  },
+  "homepage": "https://github.com/ankitkumr10/assignment_build_a_nodejs_server#readme"
+}
